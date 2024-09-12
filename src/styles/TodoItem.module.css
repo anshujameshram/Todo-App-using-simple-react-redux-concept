@@ -1,0 +1,27 @@
+/* src/components/TodoItem.css */
+.todo-item-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .input-field {
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  .todo-text {
+    font-size: 18px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .button {
+    padding: 8px 15px;
+    font-size: 16px;
+    margin-left: 5px;
+    cursor: pointer;
+  }
+  
